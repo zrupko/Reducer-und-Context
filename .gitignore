@@ -216,3 +216,4 @@ $RECYCLE.BIN/
 /*.css 
 /*.css.map
 temp
+js/dist
